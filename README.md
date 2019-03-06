@@ -1,2 +1,2 @@
 # demo_git
-Git demo
+Edited Git demo.
